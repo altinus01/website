@@ -13,7 +13,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 st.subheader("Diogo Ribeiro")
 
-col1, col2 = st.columns([0.3,0.7])
+col1, col2 = st.columns([0.3,0.7],vertical_alignment="top")
 
 
 with col2:
