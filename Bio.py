@@ -1,4 +1,7 @@
 import streamlit as st
+import warnings
+
+warnings.filterwarnings("ignore")
 
 st.set_page_config(page_title="Altinus", layout="wide", initial_sidebar_state="auto")
 
@@ -119,7 +122,7 @@ with col2:
 
 
 with col1:
-    st.image("me.png",caption="Me")
+    st.image("photos/me.png",caption="Me")
     container_1=st.container()
     with container_1:
         st.link_button(label="LinkedIn", url="https://www.linkedin.com/in/diogo-ribeiro/")
