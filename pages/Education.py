@@ -16,6 +16,7 @@ with col7:
     st.image("photos/demo2.png",use_container_width=True,caption="Frontend demo")
     st.link_button(label="Le Wagon", url="https://www.lewagon.com/")
     st.link_button(label="Demo day album", url="https://www.lourenco.photo/C/EMPRESAS/LeWagon/n-Pmb29k/241206/i-zzVPBnn")
+    st.link_button(label="Project Demo Website", url="https://projects.lewagon.com/projects/philly-bites---reviews-base-discovery-engine-for-restaurants")
 with col8:
     st.image("logos/ist_black.png",width=100)
     st.subheader("IST - Técnico Lisboa")
