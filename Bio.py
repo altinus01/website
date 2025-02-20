@@ -59,20 +59,18 @@ with col2:
                     of data analysis, machine learning, and programming,
                     enhancing my ability to extract insights and drive
                     decision-making through data.''')
-        container_2.write('''I thrive on tackling complex challenges with
+        container_2.write('''I love tackling complex challenges with
                     curiosity, always seeking opportunities
                     to grow and learn. My unique blend of technical
                     expertise, teaching experience, and enthusiasm
                     for problem-solving positions me as an ideal candidate
                     for roles in Data Science and Data Analytics.''')
-        container_2.write('''I am eager to use my unique blend
-                    of skills to a role in Data Science or
-                    Data Analytics. My journey has taught me to embrace change,
+        container_2.write('''I am eager to use my previously acquired
+                    skills on a new role. My journey has taught me to embrace change,
                     value lifelong learning, and approach every
                     challenge as an opportunity for growth.
                     I am excited about the prospect of applying
-                    these principles in a new role, where
-                    I can continue to evolve while contributing
+                    these principles where I can continue to evolve while contributing
                     to the success of a forward-thinking organization.''')
     if time == "~3 min":
         container_2.write('''I am a Portuguese citizen residing in Türkiye,
@@ -81,24 +79,24 @@ with col2:
                     and data science. My professional journey has been
                     shaped by a passion for understanding complex systems and a
                     commitment to continuous learning, both of which have
-                    defined my success across diverse roles.''')
+                    defined my success across these diverse roles.''')
         container_2.write('''I began my career with a solid foundation
                     in engineering, where I gained substantial experience
                     in data analysis, problem-solving, and technical
                     decision-making. These experiences not only
                     strengthened my analytical skills but also taught
                     me the importance of precision and adaptability in
-                    dynamic and demanding environments. My engineering
+                    dynamic and demanding environments. My chemical engineering
                     background provided the perfect platform for my
-                    transition into education, where I applied my
-                    technical knowledge in innovative ways to engage
-                    and inspire students.''')
+                    transition into scientific education, where I applied my
+                    technical knowledge and criativity in innovative ways
+                    to engage and inspire students.''')
         container_2.write('''Over the past four years, I have taught Mathematics,
                     Chemistry, and Physics in public schools, where I
-                    refined my ability to communicate complex concepts
+                    refined my skill to communicate complex concepts
                     effectively. Teaching these subjects
                     required more than just subject-matter expertise;
-                    it also demanded creativity, patience, and a knack
+                    it also demanded patience, enormous responsability, and a knack
                     for simplifying challenging material. This experience
                     allowed me to develop the ability
                     to connect with individuals from diverse
