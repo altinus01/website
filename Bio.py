@@ -127,3 +127,4 @@ with col1:
         st.link_button(label="Instagram", url="https://www.instagram.com/altinus/")
         st.link_button(label="Facebook", url="https://www.facebook.com/diogo.ribeiro.7169709/")
         st.link_button(label="GitHub", url="https://github.com/altinus01")
+        st.link_button(label="Portfolio", url="https://altinusportfolio.streamlit.app/")
